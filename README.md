@@ -1,6 +1,7 @@
 We used the following dataset for our image processing and caption generation project:
+
 Dataset Link
-<!-- https://www.kaggle.com/datasets/raddar/chest-xrays-indiana-university -->
+https://www.kaggle.com/datasets/raddar/chest-xrays-indiana-university
 What We Do with the Data
 
 This project focuses on image processing and automatic caption generation using machine learning techniques. The overall workflow consists of several steps, each detailed below.
